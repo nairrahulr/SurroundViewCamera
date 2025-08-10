@@ -1,0 +1,10 @@
+.next
+out
+dist
+*dist*
+node_modules
+*node_modules*
+*/public/*
+*.lock
+*-lock
+.history
